@@ -1,0 +1,14 @@
+{
+  "name": "sugar",
+  "version": "1.0.0",
+  "description": "Frondend",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "SugarT",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
