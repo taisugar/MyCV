@@ -112,6 +112,10 @@ html.fp-enabled,
 }
 #fp-nav.right {
     right: 17px;
+    border-radius: 36px;
+    background-color: black;
+    box-sizing: border-box;
+    background: rgba(0,0,0,0.4);
 }
 #fp-nav.left {
     left: 17px;
