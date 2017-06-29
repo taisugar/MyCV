@@ -1,1 +1,1 @@
-web: lite-server
+web: npm run dev
