@@ -1,1 +1,1 @@
-web: npm run dev
+web: lite-server -c configs/bs-config.js
